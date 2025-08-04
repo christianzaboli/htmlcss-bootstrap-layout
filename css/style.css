@@ -22,7 +22,7 @@
 
 header{
     text-align: center;
-    margin-top: 50px;
+    margin: 50px 0;
 }
 .ms-row{
     margin-bottom: 30px;
@@ -30,4 +30,7 @@ header{
 }
 .ms-col{
     padding: 20px;
+}
+.ms-text-white{
+    color: white !important;
 }
