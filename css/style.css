@@ -3,9 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 /* DEBUG GRIGLIA BS */
-[class^='container'] {
+/* [class^='container'] {
     border: 1px dashed black;
     background-color: lightblue;
     min-height: 80vh;
@@ -19,14 +18,16 @@
     height: 100px;
     background-color: palegreen;
     border: 1px solid coral;
-}
+} */
 
-
-
-    
 header{
     text-align: center;
     margin-top: 50px;
 }
-
-
+.ms-row{
+    margin-bottom: 30px;
+    text-align: start;
+}
+.ms-col{
+    padding: 20px;
+}
